@@ -18,3 +18,7 @@ function divSelector(){
   const ret = $('.pics');
   return ret;
 }
+
+function firstListItem(){
+  
+}
