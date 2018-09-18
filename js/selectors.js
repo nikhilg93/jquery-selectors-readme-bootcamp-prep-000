@@ -5,5 +5,5 @@ function paragraphSelector(){
 }
 
 function lastImageSelector(){
-  
+  const image = $('#mocha')
 }
