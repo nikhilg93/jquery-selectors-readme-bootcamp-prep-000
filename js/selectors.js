@@ -20,6 +20,6 @@ function divSelector(){
 }
 
 function firstListItem(){
-  const list = $('ul #pic-list :irst-child');
+  const list = $('ul #pic-list :first-child');
   return list;
 }
