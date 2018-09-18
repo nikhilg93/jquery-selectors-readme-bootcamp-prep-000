@@ -1,4 +1,5 @@
 // declare your functions here...
 function paragraphSelector(){
-  $('p');
+ const para = $('p');
+ return para
 }
