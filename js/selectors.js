@@ -3,3 +3,7 @@ function paragraphSelector(){
  const para = $('p');
  return para;
 }
+
+function lastImageSelector(){
+  
+}
